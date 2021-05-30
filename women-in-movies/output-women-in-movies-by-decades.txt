@@ -1,0 +1,155 @@
+1891 - 1900
+
+	# of movies: 						24
+
+	# of movies that passed: 				1
+
+	% of movies that passed: 				0.0416666666667
+
+	# of movies without a conversation between 2 women: 	23
+
+	% movies without a conversation between 2 women: 	0.958333333333
+
+1901 - 1910
+
+	# of movies: 						34
+
+	# of movies that passed: 				1
+
+	% of movies that passed: 				0.0294117647059
+
+	# of movies without a conversation between 2 women: 	32
+
+	% movies without a conversation between 2 women: 	0.941176470588
+
+1911 - 1920
+
+	# of movies: 						26
+
+	# of movies that passed: 				12
+
+	% of movies that passed: 				0.461538461538
+
+	# of movies without a conversation between 2 women: 	10
+
+	% movies without a conversation between 2 women: 	0.384615384615
+
+1921 - 1930
+
+	# of movies: 						91
+
+	# of movies that passed: 				21
+
+	% of movies that passed: 				0.230769230769
+
+	# of movies without a conversation between 2 women: 	50
+
+	% movies without a conversation between 2 women: 	0.549450549451
+
+1931 - 1940
+
+	# of movies: 						220
+
+	# of movies that passed: 				107
+
+	% of movies that passed: 				0.486363636364
+
+	# of movies without a conversation between 2 women: 	68
+
+	% movies without a conversation between 2 women: 	0.309090909091
+
+1941 - 1950
+
+	# of movies: 						213
+
+	# of movies that passed: 				106
+
+	% of movies that passed: 				0.49765258216
+
+	# of movies without a conversation between 2 women: 	73
+
+	% movies without a conversation between 2 women: 	0.342723004695
+
+1951 - 1960
+
+	# of movies: 						289
+
+	# of movies that passed: 				143
+
+	% of movies that passed: 				0.494809688581
+
+	# of movies without a conversation between 2 women: 	102
+
+	% movies without a conversation between 2 women: 	0.352941176471
+
+1961 - 1970
+
+	# of movies: 						349
+
+	# of movies that passed: 				156
+
+	% of movies that passed: 				0.446991404011
+
+	# of movies without a conversation between 2 women: 	161
+
+	% movies without a conversation between 2 women: 	0.461318051576
+
+1971 - 1980
+
+	# of movies: 						401
+
+	# of movies that passed: 				188
+
+	% of movies that passed: 				0.468827930175
+
+	# of movies without a conversation between 2 women: 	165
+
+	% movies without a conversation between 2 women: 	0.411471321696
+
+1981 - 1990
+
+	# of movies: 						661
+
+	# of movies that passed: 				352
+
+	% of movies that passed: 				0.532526475038
+
+	# of movies without a conversation between 2 women: 	232
+
+	% movies without a conversation between 2 women: 	0.350983358548
+
+1991 - 2000
+
+	# of movies: 						1140
+
+	# of movies that passed: 				656
+
+	% of movies that passed: 				0.575438596491
+
+	# of movies without a conversation between 2 women: 	366
+
+	% movies without a conversation between 2 women: 	0.321052631579
+
+2001 - 2010
+
+	# of movies: 						2408
+
+	# of movies that passed: 				1446
+
+	% of movies that passed: 				0.60049833887
+
+	# of movies without a conversation between 2 women: 	760
+
+	% movies without a conversation between 2 women: 	0.31561461794
+
+2011 - 2020
+
+	# of movies: 						2972
+
+	# of movies that passed: 				1912
+
+	% of movies that passed: 				0.64333781965
+
+	# of movies without a conversation between 2 women: 	791
+
+	% movies without a conversation between 2 women: 	0.266150740242
