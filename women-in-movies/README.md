@@ -5,7 +5,7 @@ This data is queried from https://bechdeltest.com/ - a volunteer run, online dat
 
 ## File by file
 
-### bachdel-abridged.csv
+### 1. bachdel-abridged.csv
 
 The output of running bachdel.py and then deleting the "id" column. 
 
@@ -18,19 +18,19 @@ The output of running bachdel.py and then deleting the "id" column.
 | pass   | 0 = the movie failed the test. 1 = the movie passed the test (i.e. its rating was 3).     |
 
 
-### bachdel-unabridged.csv
+### 2. bachdel-unabridged.csv
 
 The same as above except including the ID column. ID is the unique id according to https://bechdeltest.com. It is used to look up more about the movie in the database if so desired - such as ratings, comments, etc. Look at API docs to learn more.  
 
-### bechdel.py
+### 3. bechdel.py
 
 A script to query the entire https://bechdeltest.com database and return the full movie list with details for each movie. See above for more details. 
 
-### bechdel_calcs.py
+### 4. bechdel_calcs.py
 
 A script to aggregate the data in the datbase and output total counts and concrete counts for each decade. 
 
-### output-women-in-movies-by-decades.txt
+### 5. output-women-in-movies-by-decades.txt
 
 The output of running bechdel_calcs.py.  
 
