@@ -9,12 +9,14 @@ This data is queried from https://bechdeltest.com/ - a volunteer run, online dat
 
 The output of running bachdel.py and then deleting the "id" column. 
 
+
 | Column name      | Significance |
 | ----------- | ----------- |
 | year      | Year the movie was released according to IMDB       |
 | title   |  The title of the movie        |
 | rating   | Number from 0 to 3 (0 means no two women, 1 means no talking, 2 means talking about a man, 3 means it passes the test).        |
 | pass   | 0 = the movie failed the test. 1 = the movie passed the test (i.e. its rating was 3).     |
+
 
 ### bachdel-unabridged.csv
 
