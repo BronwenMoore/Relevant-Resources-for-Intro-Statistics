@@ -6,4 +6,5 @@ Number of Days on Diet - the number of days since Kai was rescued and began his 
 Weight in pounds - Kais weight for the given date
 
 Fall in love with Kai and learn Kai's full story here: https://www.youtube.com/watch?v=-HFFSYcEMCI 
+
 Warning - it might bring tears to your eyes!
