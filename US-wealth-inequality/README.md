@@ -1,6 +1,6 @@
 
-Source: World inequality Database, wid.world
-Specifically,wid.world/data/#countrytimeseries/sptinc_p99p100_992_j;shweal_p90p100_z;shweal_p0p50_z;shweal_p99p100_z/US/1913/2021/eu/k/p/yearly/s
+Source: World inequality Database, [wid.world](http://wid.world)
+Specifically [wid.world/data/#countrytimeseries/sptinc_p99p100_992_j;shweal_p90p100_z;shweal_p0p50_z;shweal_p99p100_z/US/1913/2021/eu/k/p/yearly/s](https://wid.world/data/#countrytimeseries/sptinc_p99p100_992_j;shweal_p90p100_z;shweal_p0p50_z;shweal_p99p100_z/US/1913/2021/eu/k/p/yearly/s)
 
 Variables:
 
